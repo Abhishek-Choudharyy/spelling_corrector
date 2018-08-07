@@ -2,7 +2,7 @@
 
 Test Data : List of misspelled word (spell_test.csv) where column query is input query and column corr_version is actual spelling
 
-## version_1:
+## Version_1:
 
 Basic idea of spelling corrector is based on Peter Norvig’s excellent tutorial — a spelling corrector in 21 lines of Python code.(http://norvig.com/spell-correct.html)
 
