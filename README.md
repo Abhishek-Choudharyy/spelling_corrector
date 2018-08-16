@@ -23,5 +23,5 @@ There are many algorithms to measure edit distance, which are calculated using a
 **Hamming distance** allows only substitution, hence, it only applies to strings of the same length;<br />
 **Jaro distance** allows only transposition.<br />
 
-We will use **Damerau–Levenshtein distance** to find edit distance between source and target(phonetics.py).
+We will use **Damerau–Levenshtein distance** to find edit distance between source and target(phonetic_algo.py).
  
