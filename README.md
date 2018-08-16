@@ -18,10 +18,10 @@ Phonetic algorithms helps us to detect similar-sounding words even if they are s
 
 There are many algorithms to measure edit distance, which are calculated using a different set of allowable edit operations. For instance,
 
-**Levenshtein distance** allows insertions, deletions or substitutions.
-**Damerau–Levenshtein distance**allows insertion, deletion, substitution, and the transposition of two adjacent characters;
-**Hamming distance** allows only substitution, hence, it only applies to strings of the same length.
-**Jaro distance** allows only transposition.
+**Levenshtein distance** allows insertions, deletions or substitutions;<br />
+**Damerau–Levenshtein distance**allows insertion, deletion, substitution, and the transposition of two adjacent characters;<br />
+**Hamming distance** allows only substitution, hence, it only applies to strings of the same length;<br />
+**Jaro distance** allows only transposition.<br />
 
-We will use Damerau–Levenshtein distance to find edit distance between source and target.
+We will use **Damerau–Levenshtein distance** to find edit distance between source and target(phonetics.py).
  
